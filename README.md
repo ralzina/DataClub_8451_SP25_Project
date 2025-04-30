@@ -1,6 +1,6 @@
 # Dataset Cleaning for 84.51 Project
 
-This repository c ontains the code to clean the datasets associated with our project with 84.51. After running the code, you will have access to the cleaned data that was usd to generate the dashboards we uploaded to Tableau.
+This repository contains the code to clean the datasets associated with our project with 84.51. After running the code, you will have access to the cleaned data that was usd to generate the dashboards we uploaded to Tableau.
 
 ## Dashboards
 To see our final dashboards, go to:
