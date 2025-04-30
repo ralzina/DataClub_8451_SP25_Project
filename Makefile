@@ -2,7 +2,9 @@ all:
 	python3 main.py
 
 clean:
-	rm -f main_transactions.csv
+	cd datasets
+	rm -f *.csv
+	cd ..
 
 install:
 	pip3 install -r requirements.txt

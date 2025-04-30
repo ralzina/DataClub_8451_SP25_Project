@@ -143,6 +143,6 @@ main_transactions['Loyalty_Status'] = main_transactions['retail_disc'].apply(lam
 # Week 53 included days from January 2018 when the data was supposed to be for 2017
 main_transactions = main_transactions[(main_transactions['week']!=1) & (main_transactions['week']!=53)]
 
-main_transactions.to_csv('main_transactions.csv', index=False)
+main_transactions.to_csv('datasets/main_transactions.csv', index=False)
 
 

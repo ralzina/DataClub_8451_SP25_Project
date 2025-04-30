@@ -9,7 +9,7 @@ campaigns = get_data()['campaigns']
 
 campaigns_merged = pd.merge(campaigns, campaign_descriptions, on='campaign_id', how='left')
 
-main_transactions = pd.read_csv('main_transactions.csv')
+main_transactions = pd.read_csv('datasets/main_transactions.csv')
 
 main_redemptions = main_transactions.dropna(subset=['campaign_type'])
 
