@@ -6,6 +6,16 @@ This repository contains the code to clean the datasets associated with our proj
 To see our final dashboards, go to:
 [Dashboards](https://public.tableau.com/app/profile/rene.alzina/viz/DataClub_84_51_final/GeneralAnalysis)
 
+## Members
+* Lindsay Abad
+* Rene Alzina
+* Alexis Amoranto
+* Peter Bae
+* Sofia Cipollone
+* Lucas Dee
+* Aryan Patel
+* Oliver Wardhana
+
 ## Getting Started
 
 ### 1. Clone the repository
