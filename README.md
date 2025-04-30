@@ -13,7 +13,7 @@ To see our final dashboards, go to:
 To get started, first clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ralzina/DataClub_8451.git
+git clone https://github.com/ralzina/DataClub_8451_SP25_Project.git
 ```
 ### 2. Install Dependencies
 
