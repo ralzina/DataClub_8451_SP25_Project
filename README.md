@@ -39,7 +39,7 @@ Once the repository is cloned and dependencies are installed, you can run the cl
 ```bash
 make
 ```
-### 4. If you want to remove the generated datasets, you can clean them by running
+### 4. If you want to remove the generated datasets, you can remove them by running
 
 ```bash
 make clean
