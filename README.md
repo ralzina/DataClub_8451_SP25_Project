@@ -14,26 +14,26 @@ To get started, first clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/ralzina/DataClub_8451.git
-
+```
 ### 2. Install Dependencies
 
 Simply run
 
 ```bash
 make install
-
+```
 ### 3. Running the Code
 
 Once the repository is cloned and dependencies are installed, you can run the cleaning process by using make:
 
 ```bash
 make
-
+```
 ### 4. If you want to remove the generated datasets, you can clean them by running
 
 ```bash
 make clean
-
+```
 
 ### 5. More Information
 
